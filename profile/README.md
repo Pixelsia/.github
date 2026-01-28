@@ -4,7 +4,32 @@ Pixelsia Minecraft Server
 
 ## Pixelsiaとは？
 
-素晴らしいMinecraftサーバーです。（現在開発中）  
+素晴らしいMinecraftサーバーです。（現在開発中）
+
+## 組織図（予定）
+
+```
+Pixelsia LLC（設立予定）
+├─ MCServer：Clasteria（くらすてりあ）
+│  └─ 教育コンテンツ：CodingCraft
+└─ ネットワーク：Connectia（こねくてぃあ）
+```
+
+## 主要なサービス
+
+### Clasteria（くらすてりあ）
+
+- Minecraftサーバー本体（運営・開発中）
+- 教育コンテンツ **CodingCraft** を内包
+
+### CodingCraft（Clasteria内の教育コンテンツ）
+
+- 遊びながら学べるプログラミング／ものづくり系の学習体験
+
+### Connectia（こねくてぃあ）
+
+- Pixelsiaが提供するネットワーク（構想中）
+
 
 ## 理念
 
@@ -30,5 +55,3 @@ Pixelsia Minecraft Server
 - **Learning（学び）**：遊びと学びを融合させた新しい教育体験を追求する  
 - **Safety（安全性）**：安心して活動できる環境とルールを整える  
 - **Innovation（革新）**：常に新しい企画や仕組みでMinecraftの可能性を広げる
-
-
